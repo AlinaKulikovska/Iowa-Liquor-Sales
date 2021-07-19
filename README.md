@@ -2,6 +2,10 @@
 
 All Data manipulation and results you can see in Iowa_Liquor_Sales.ipynb
 
+Also all graphics are in folder 'Visualization'
+
+## Results that I recieved
+
 
 Sales of liqour per city in dollars --- on the first position is CEDAR RAPIDS (845 374$)
 
